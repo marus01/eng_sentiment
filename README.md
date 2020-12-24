@@ -14,3 +14,6 @@ HuggingFace BERT를 활용한 한글 리뷰 감정 분석
 
 # 참고 소스 코드
 https://github.com/deepseasw/bert-naver-movie-review
+
+#코랩
+https://colab.research.google.com/drive/1WHxHr9iZ_wXFFG3u_hXZ3I6i0epH-4fQ?hl=ko#scrollTo=XelZ5PDY2IU-
